@@ -1,0 +1,54 @@
+github.txt
+Author: z3r0
+24 January 2019
+
+README for Github
+
+
+To start... Create an Account with github
+	Go to https://github.com/
+	Click "Sign Up"
+Next... Add ssh keys
+	Click upper right user account
+	Click "Settings"
+	Click "SSH and GPG Keys"
+	Add "New SSH key"
+Next_x2... Create an SSH Key
+	Check for existing SSH keys: 
+		cd .ssh
+		If you see "No such file or directory", skip to "Generate new SSH Key"
+		dir id_*
+		cat id_rsa.pub
+		Save the result from this and paste into GitHub's New SSH Key
+	Generate new SSH Key:
+		ssh-keygen
+		cd .ssh
+		dir id_*
+		cat id_rsa.pub
+Next_x3... Clone the repo
+	git clone <given_on_website_use_ssh_keys>
+[Next_x3... If you already cloned the repo and just need to pull it]
+	git pull
+Next_x4... Change Branches before working on repo
+	git checkout -b <name>	## creates and changes to a branch
+	or
+	git checkout <name>	## changes to an existing branch
+Next_x5... Do whatcha gotta do!
+	nano README.txt
+	or
+	nano foo.sh
+	or
+	whatever you want, I don't care
+Next_x6... Get those changes online into the repo!
+	git add .
+	git commit -a -m "<add a description of what you have done>"
+	git push -u origin <name_of_branch_you're_in>
+Next_x7... OPTIONAL: Merge Branch to Master
+	git merge master
+	git push origin master
+Finally... You are done! Congrats. So long and thanks for all the fish. 
+	Help Stuff if you want it:
+		git branch -d <branch_name>	## deletes branch
+		git branch			## shows branches
+		git status			## shows status, in case you are lost
+	If that doesn't help. I am sure google knows. 
