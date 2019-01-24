@@ -1,0 +1,2 @@
+# Real_Time_Smart_Grid
+Continuation of Smart Grid capstone project. The focus is on Wide Area Monitoring and Control (WAMC) systems, and anomaly detection. Primary objectives are to refine the user interface/WAMC, integrate cyber monitoring tools, develop a machine learning based anomaly detection algorithm and implement using parallel computing and Apache Spark, and design, build, test a remote controlled energy storage system (battery bank) for the power grid emulator. 
