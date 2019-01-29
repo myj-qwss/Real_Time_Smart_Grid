@@ -12,14 +12,14 @@
 
 
 ## exit on failure
-#set -eEuo pipefail
-#trap 'echo "Aborting (errexit line $LINENO). Exit code: $?" >&2' ERR
-#IFS=$'\n\t'
+set -eEuo pipefail
+trap 'echo "Aborting (errexit line $LINENO). Exit code: $?" >&2' ERR
+IFS=$'\n\t'
 
 
-# Update
-sudo apt-get install update
-sudo apt-get upgrade
+## Update
+#sudo apt-get install update
+#sudo apt-get upgrade
 sudo apt-get install python3
 sudo apt-get install pythong3-pip
 
