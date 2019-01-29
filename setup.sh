@@ -22,6 +22,7 @@ IFS=$'\n\t'
 #sudo apt-get upgrade
 sudo apt-get install python3
 sudo apt-get install pythong3-pip
+sudo apt-get install python-pip python-dev libmysqlclient-dev
 
 
 ## Install dependencies
