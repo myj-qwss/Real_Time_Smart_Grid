@@ -14,9 +14,6 @@ while time.time() < t_end:
 	#temperature = bus.read_word_data(addr, 0x08)
 	relsoc = bus.read_word_data(addr, 0x0d)
 	adssoc = bus.read_byte_data(addr, 0x0e)
-
-	#voltage = voltage / (2^16)
-	#current = current / (2^16)
 	
 	print("Voltage: ")
 	print(voltage)
@@ -26,13 +23,6 @@ while time.time() < t_end:
 	print(relsoc)
 	print("Adssoc: ")
 	print(adssoc)
-
-#	#voltage = int(voltage) / 65536
-#	current = current / 65536
-#	print("New Voltage: ")
-#	print(voltage)
-#	print("New Current: ")
-#	print(current)
 
 	time.sleep(1)
 
