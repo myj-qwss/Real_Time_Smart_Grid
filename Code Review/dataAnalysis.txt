@@ -1,0 +1,410 @@
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/voltage/sig1_voltage.out
+Raw Data: 
+total: 63008
+normal: 51293
+ normal %: 0.8140712290502793
+temporal: 173
+temporal %: 0.002745683087861859
+constraint: 11542
+constraint %: 0.1831830878618588
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/voltage/sig2_voltage.out
+Raw Data: 
+total: 63004
+normal: 51289
+ normal %: 0.8140594247984255
+temporal: 175
+temporal %: 0.002777601422131928
+constraint: 11540
+constraint %: 0.18316297377944257
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/voltage/sig3_voltage.out
+Raw Data: 
+total: 63012
+normal: 51291
+ normal %: 0.8139878118453628
+temporal: 174
+temporal %: 0.0027613787849933348
+constraint: 11547
+constraint %: 0.18325080936964389
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/voltage/sig4_voltage.out
+Raw Data: 
+total: 63006
+normal: 51290
+ normal %: 0.8140494556074025
+temporal: 176
+temporal %: 0.0027933847570072693
+constraint: 11540
+constraint %: 0.18315715963559026
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/voltage/sig5_voltage.out
+Raw Data: 
+total: 63009
+normal: 51289
+ normal %: 0.8139948261359489
+temporal: 176
+temporal %: 0.00279325175768541
+constraint: 11544
+constraint %: 0.18321192210636575
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/voltage/sig6_voltage.out
+Raw Data: 
+total: 63013
+normal: 47203
+ normal %: 0.7490993921889134
+temporal: 624
+temporal %: 0.009902718486661483
+constraint: 15186
+constraint %: 0.24099788932442512
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/voltage/sig7_voltage.out
+Raw Data: 
+total: 63012
+normal: 40326
+ normal %: 0.6399733384117311
+temporal: 622
+temporal %: 0.009871135656700312
+constraint: 22064
+constraint %: 0.35015552593156857
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/voltage/sig8_voltage.out
+Raw Data: 
+total: 63012
+normal: 50756
+ normal %: 0.8054973655811591
+temporal: 736
+temporal %: 0.011680314860661461
+constraint: 11520
+constraint %: 0.1828223195581794
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/voltage/sig9_voltage.out
+Raw Data: 
+total: 63013
+normal: 37432
+ normal %: 0.5940361512703728
+temporal: 604
+temporal %: 0.00958532366337105
+constraint: 24977
+constraint %: 0.39637852506625615
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/voltage/sig10_voltage.out
+Raw Data: 
+total: 63013
+normal: 50739
+ normal %: 0.8052147969466618
+temporal: 754
+temporal %: 0.011965784838049292
+constraint: 11520
+constraint %: 0.1828194182152889
+
+All Frequency are only normal.
+Almost all current are normal, only found one T.
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/freqDelta/sig1_freqDelta.out
+Raw Data: 
+total: 63008
+normal: 57444
+ normal %: 0.9116937531742001
+temporal: 5564
+temporal %: 0.08830624682579989
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/freqDelta/sig2_freqDelta.out
+Raw Data: 
+total: 63005
+normal: 57328
+ normal %: 0.9098960399968257
+temporal: 5677
+temporal %: 0.09010396000317435
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/freqDelta/sig3_freqDelta.out
+Raw Data: 
+total: 63011
+normal: 57467
+ normal %: 0.9120153623970418
+temporal: 5542
+temporal %: 0.08795289711320246
+constraint: 2
+constraint %: 3.174048975575693e-05
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/freqDelta/sig4_freqDelta.out
+Raw Data: 
+total: 63006
+normal: 57240
+ normal %: 0.9084849061994096
+temporal: 5766
+temporal %: 0.09151509380059042
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/freqDelta/sig5_freqDelta.out
+Raw Data: 
+total: 63009
+normal: 57431
+ normal %: 0.9114729641797203
+temporal: 5578
+temporal %: 0.08852703582027964
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/freqDelta/sig6_freqDelta.out
+Raw Data: 
+total: 63013
+normal: 57407
+ normal %: 0.9110342310316919
+temporal: 5606
+temporal %: 0.08896576896830813
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/freqDelta/sig7_freqDelta.out
+Raw Data: 
+total: 63012
+normal: 56862
+ normal %: 0.9023995429442011
+temporal: 6150
+temporal %: 0.0976004570557989
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/freqDelta/sig8_freqDelta.out
+Raw Data: 
+total: 63013
+normal: 57003
+ normal %: 0.9046228556012251
+temporal: 6010
+temporal %: 0.09537714439877486
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig1_current.out
+Raw Data: 
+total: 63008
+normal: 63008
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig2_current.out
+Raw Data: 
+total: 63004
+normal: 63004
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig3_current.out
+Raw Data: 
+total: 63012
+normal: 63012
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig4_current.out
+Raw Data: 
+total: 63006
+normal: 63006
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig5_current.out
+Raw Data: 
+total: 63009
+normal: 63009
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig6_current.out
+Raw Data: 
+total: 63013
+normal: 62993
+ normal %: 0.9996826051767096
+temporal: 20
+temporal %: 0.0003173948232904321
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig7_current.out
+Raw Data: 
+total: 63013
+normal: 62987
+ normal %: 0.9995873867297225
+temporal: 26
+temporal %: 0.00041261327027756177
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig8_current.out
+Raw Data: 
+total: 63012
+normal: 63009
+ normal %: 0.9999523900209484
+temporal: 3
+temporal %: 4.760997905160922e-05
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig9_current.out
+Raw Data: 
+total: 63012
+normal: 63012
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig10_current.out
+Raw Data: 
+total: 63013
+normal: 63013
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/current/sig11_current.out
+Raw Data: 
+total: 63013
+normal: 62910
+ normal %: 0.9983654166600543
+temporal: 103
+temporal %: 0.0016345833399457254
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/frequency/sig1_frequency.out
+Raw Data: 
+total: 63008
+normal: 63008
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/frequency/sig2_frequency.out
+Raw Data: 
+total: 63004
+normal: 63004
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/frequency/sig3_frequency.out
+Raw Data: 
+total: 63011
+normal: 63003
+ normal %: 0.9998730380409769
+temporal: 0
+temporal %: 0.0
+constraint: 8
+constraint %: 0.00012696195902302772
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/frequency/sig4_frequency.out
+Raw Data: 
+total: 63006
+normal: 63002
+ normal %: 0.9999365139827953
+temporal: 0
+temporal %: 0.0
+constraint: 4
+constraint %: 6.348601720471066e-05
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/frequency/sig5_frequency.out
+Raw Data: 
+total: 63009
+normal: 63009
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/frequency/sig6_frequency.out
+Raw Data: 
+total: 63013
+normal: 63013
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/frequency/sig7_frequency.out
+Raw Data: 
+total: 63012
+normal: 63012
+ normal %: 1.0
+temporal: 0
+temporal %: 0.0
+constraint: 0
+constraint %: 0.0
+
+ ---------------------------------------------------- 
+File under analysis: ./lData/frequency/sig8_frequency.out
+Raw Data: 
+total: 63013
+normal: 63006
+ normal %: 0.9998889118118484
+temporal: 0
+temporal %: 0.0
+constraint: 7
+constraint %: 0.00011108818815165125
