@@ -9,11 +9,14 @@ addr = 0x0b
 t_end = time.time() + 60 * 15
 
 while time.time() < t_end:
-	voltage = bus.read_word_data(addr, 0x09)
-	current = bus.read_word_data(addr, 0x0a)
-	#temperature = bus.read_word_data(addr, 0x08)
-	relsoc = bus.read_word_data(addr, 0x0d)
-	adssoc = bus.read_byte_data(addr, 0x0e)
+	try:
+		voltage = bus.read_word_data(addr, 0x09)
+		current = bus.read_word_data(addr, 0x0a)
+		#temperature = bus.read_word_data(addr, 0x08)
+		relsoc = bus.read_word_data(addr, 0x0d)
+		adssoc = bus.read_byte_data(addr, 0x0e)
+	except:
+		continue
 	
 	print("Voltage: ")
 	print(voltage)
