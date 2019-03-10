@@ -3,14 +3,6 @@ Continuation of Smart Grid capstone project. The focus is on Wide Area Monitorin
 
 
 # Helpful Instructions
-Hello, World!
-
-Welcome to Real Time Smart Grid
-
-My name is z3r0
-
-
-This is an electrical engineer's attempt at coding. Good luck.
 
 Setup Instructions:
 
